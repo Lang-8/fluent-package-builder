@@ -1,3 +1,9 @@
+fluent-package (5.0.4-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Alex Tsui <alextsui@pm.me>  Tue, 16 Jul 2024 18:37:27 -0000
+
 fluent-package (5.0.4-1) unstable; urgency=medium
 
   * New upstream release.
